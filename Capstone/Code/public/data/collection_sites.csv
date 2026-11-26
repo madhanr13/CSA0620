@@ -1,0 +1,13 @@
+id,name,lat,lon,radius,cost
+S01,Anna Nagar collection point,13.0870,80.2140,2.2,3400
+S02,Kilpauk collection point,13.0820,80.2440,2.1,3100
+S03,Egmore collection point,13.0750,80.2640,2.0,2900
+S04,Chetpet collection point,13.0670,80.2380,2.0,2800
+S05,Vadapalani collection point,13.0510,80.2150,2.1,3000
+S06,T Nagar collection point,13.0390,80.2340,2.2,3600
+S07,Saidapet collection point,13.0200,80.2260,2.0,2600
+S08,Adyar collection point,13.0130,80.2530,2.1,3200
+S09,Mylapore collection point,13.0340,80.2650,2.0,3000
+S10,Royapettah collection point,13.0520,80.2660,2.0,2900
+S11,Nungambakkam collection point,13.0580,80.2450,2.5,3900
+S12,Central mobile hub,13.0670,80.2520,3.2,5600
